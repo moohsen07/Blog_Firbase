@@ -78,7 +78,7 @@ export default {
 .about * {
   margin-bottom: 10px;
 }
-input {
+input.search {
   width: 100%;
   padding: 10px;
 }
